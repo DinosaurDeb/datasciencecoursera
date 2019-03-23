@@ -1,3 +1,2 @@
-##This is a markdown file 
-:wq
+## This is a markdown file 
 
